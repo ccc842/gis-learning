@@ -1,3 +1,16 @@
 ﻿# Node.js
 node_modules/
 npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+
+# GIS 数据
+*.shp
+*.shx
+*.dbf
+
+# IDE
+.vscode/
+.idea/
