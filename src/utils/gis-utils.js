@@ -1,1 +1,1 @@
-﻿// GIS 工具函数
+﻿export const GISUtils = {};
